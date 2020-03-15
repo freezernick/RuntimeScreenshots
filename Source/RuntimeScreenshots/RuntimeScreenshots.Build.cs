@@ -1,4 +1,4 @@
-// Some copyright should be here...
+// Copyright (c) 2019 Dominic Hock
 
 using UnrealBuildTool;
 
